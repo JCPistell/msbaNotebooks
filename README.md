@@ -32,3 +32,7 @@ It's less clean but will definitely work
   - I'd suggest using [virtualenvs](https://realpython.com/python-virtual-environments-a-primer/) if at all possible. 
 2. Navigate to the directory you cloned the notebooks into (e.g. `~/Projects/msbaNotebooks`)
 3. Start a notebook server with `jupyter notebook`
+
+## If all else fails
+
+You can get a rendered (but non-interactive) version of the notebooks [here](https://nbviewer.jupyter.org/github/JCPistell/msbaNotebooks/tree/rendered_results/)
